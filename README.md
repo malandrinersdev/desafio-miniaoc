@@ -2,6 +2,8 @@
 
 > Desafío de programación donde tú eliges tu propio nivel de dificultad.
 
+![miniaoc](https://user-images.githubusercontent.com/83012086/141086001-a68d5189-d276-47d0-af86-64e2a111a44e.jpeg)
+
 Bienvenid@s a un nuevo reto de programación de la comunidad malandriner.
 
 Lo hemos llamado **miniAOC** porque es como el Advent Of Code (AOC) de diciemmbre pero en **versión mini**. 
