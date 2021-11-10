@@ -54,7 +54,7 @@ Hay dos formas de hacerlo:
 
 **1. Incluir un enlace a la solución en una issue**
 
-En este mismo repositorio puedes añadir una issue indicando:
+En este mismo repositorio puedes [añadir una issue](https://github.com/malandrinersdev/desafio-miniaoc/issues/new) indicando:
 
 - El reto semanal resuelto
 - Un enlace a la solución
@@ -77,7 +77,7 @@ Cuando tengas la resolución completada en tu fork bastaría con hacer un PR al 
 
 Aquí aparecerán enlazados cada uno de los retos semanales.
 
-- Reto 1: Los hackers astutos
+- [Reto 1: Los hackers astutos](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-1.md)
 - Reto 2 (17 Nov)
 - Reto 3 (24 Nov)
 
