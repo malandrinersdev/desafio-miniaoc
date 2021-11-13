@@ -24,5 +24,5 @@ fun findMostRepeatedDomain(mails: List<String>): List<String> {
     val maxRepeatedDomains = emailsAndOccurrences[emailsAndOccurrences.maxOf { it.key }] ?: emptyList()
 
     // return a list of email addresses from most repeated domains
-    return groupedEmailsByDomain.filter { groupEmails -> maxRepeatedDomains.contains(groupEmails.key) }.values.flatten()
+    return maxRepeatedDomains.mapNotNull { domain -> groupedEmailsByDomain[domain] }.flatten()
 }
