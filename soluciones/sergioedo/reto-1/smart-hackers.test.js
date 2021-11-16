@@ -16,5 +16,10 @@ hackersList = [
 ]
 
 test("Ejemplo simple con lista corta de e-mails", () => {
-    expect(findSmartHackers(emailsList)).toBe(hackersList)
+    expect(findSmartHackers(emailsList)).toEqual(
+        expect.arrayContaining(hackersList)
+    )
+    expect(hackersList).toEqual(
+        expect.arrayContaining(findSmartHackers(emailsList))
+    )
 })
