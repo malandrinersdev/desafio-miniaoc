@@ -7,6 +7,7 @@ class HackersAstutos {
     //Toma un conjunto de direcciones de correo y las va guardando en un array por dominio (lo que esté a la derecha de la @)
     //Hay que crear una estructura con los dominios encontrados y el número de emails que hay de cada uno de ellos
     //Devolverá el dominio que más se repite
+    
 
 
     function clasificaDominios($in){
