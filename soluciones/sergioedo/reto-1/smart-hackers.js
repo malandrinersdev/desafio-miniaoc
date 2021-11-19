@@ -11,7 +11,8 @@ const findSmartHackers = (emails) => {
     const hackersEmails = emails.filter(
         (email) => email.split("@")[1] === hackersDomain
     )
-    return hackersEmails
+    const distinctHackersEmails = [...new Set(hackersEmails)]
+    return distinctHackersEmails
 }
 
 module.exports = findSmartHackers
