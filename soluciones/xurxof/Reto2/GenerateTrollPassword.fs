@@ -7,20 +7,16 @@ let rec moveCharToStart (input:string) (i:int) =
     match reminder.Length with 
         | 1 | 0 -> [startChar+reminder]
         | _ -> 
-            let mixedReminder = mix reminder
+            let mixedReminder = generateTrollPassword reminder
             let result = 
                 mixedReminder 
                 |> Seq.map (fun u-> startChar + u)
                 |> Seq.toList
             result
 
-and mix input = 
-    let result = [0 .. -1 + Seq.length input] 
-                |> Seq.map (fun i -> moveCharToStart input i )
-                |> Seq.fold (fun a b -> a @ b) []
-    result
-
-let generateTrollPassword input = 
-    match String.length input with
-    | 1 ->[ input ]
-    | _ -> mix input 
+and generateTrollPassword input = 
+    [0 .. -1 + Seq.length input] 
+        |> Seq.map (fun i -> moveCharToStart input i )
+        |> Seq.fold (fun a b -> a @ b) []
+    
+     
