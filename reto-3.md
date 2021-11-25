@@ -5,7 +5,7 @@ Gracias a un Nokia 6310 que alguien guardó en un cajón hemos descubierto su tr
 
 Están intentando atacar a la Libretilla, desesperados, usando un móvil de “última generación”, un Nokia 6310. 
 
-Las marcaciones de teclado han sido claves en todo esto. Este era un móvil en el que había que pulsar varias veces los dígitos del 2 al 9 para conseguir letras. Una vez al 2 era una A, tres veces al 3 era una F. ([Mira la imagen])
+Las marcaciones de teclado han sido claves en todo esto. Este era un móvil en el que había que pulsar varias veces los dígitos del 2 al 9 para conseguir letras. Una vez al 2 era una A, tres veces al 3 era una F. ([Mira la imagen](https://en.wikipedia.org/wiki/Nokia_6310i#/media/File:N6310i_gross.jpg))
 
 Golpeando a la nube sofisticada a base de SMS con códigos extraños… Pobres.
 
@@ -16,10 +16,10 @@ Tienes dos partes, que hay que resolver de forma separada.
 
 **1. Primera parte**
 
-**Dada una serie de dígitos, mostrar todas las combinaciones posibles de letras que se pueden conseguir. **
+**Dada una serie de dígitos, mostrar todas las combinaciones posibles de letras que se pueden conseguir.**
 
 - No es relevante el número de pulsaciones.
-- No intervienen más teclas que el 2, 3, 4, 5, 6, 7 , 8 y 9. ([Mira la imagen])
+- No intervienen más teclas que el 2, 3, 4, 5, 6, 7 , 8 y 9. ([Mira la imagen](https://en.wikipedia.org/wiki/Nokia_6310i#/media/File:N6310i_gross.jpg))
 - Consideramos solo las letras que aparecen en el teclado (nos olvidamos de letras acentuadas, eñes).
 - Todo en minúsculas.
 
