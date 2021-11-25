@@ -25,6 +25,7 @@ Tienes dos partes, que hay que resolver de forma separada.
 
 **Ejemplo:**
 
+````
 // input
 
 digits = 6
@@ -42,8 +43,9 @@ letterCombinations(digits)
 
 // output
 > adg, adh, adi, aeg, aeh, aei, afg, afh, afi, bdg, bdh, bdi, beg, beh, bei, bfg, bfh, bfi, cdg, cdh, cdi, ceg, ceh, cei, cfg, cfh, cfi
+````
 
-\*\*Lo de arriba un ejemplo, la solución del reto debe ser genérica.
+(Lo de arriba un ejemplo, la solución del reto debe ser genérica.)
 
 
 **2. Segunda parte**
