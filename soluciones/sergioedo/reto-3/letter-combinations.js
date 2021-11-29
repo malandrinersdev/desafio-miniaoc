@@ -1,5 +1,5 @@
-const digits2Chars = {
-    0: " ",
+const digit2Chars = {
+    0: [" "],
     2: ["a", "b", "c"],
     3: ["d", "e", "f"],
     4: ["g", "h", "i"],
@@ -13,11 +13,11 @@ const digits2Chars = {
 const letterCombinations = (digits) => {
     digitsArray = digits.toString().split("")
     if (digitsArray.length === 1) {
-        return digits2Chars[digitsArray[0]]
+        return digit2Chars[digitsArray[0]]
     } else {
         const firstDigit = digitsArray[0]
         const subDigits = digitsArray.slice(1).join("")
-        const firstDigitChars = digits2Chars[firstDigit]
+        const firstDigitChars = digit2Chars[firstDigit]
         const subCombinations = letterCombinations(subDigits)
         return firstDigitChars
             .map((char) => {
@@ -31,5 +31,5 @@ const letterCombinations = (digits) => {
 
 module.exports = {
     letterCombinations,
-    digits2Chars,
+    digit2Chars,
 }
