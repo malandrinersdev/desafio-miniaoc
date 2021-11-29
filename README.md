@@ -81,7 +81,7 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 
 - [Reto 1: Los hackers astutos](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-1.md)
 - [Reto 2: Malo de la Olma de la Loma Mola](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-2.md)
-- Reto 3 (24 Nov)
+- [Reto 3: Nokia 6310](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-3.md)
 
 ### Fechas límite:
 - Reto 1 y 2 para el 24 de Noviembre a las 19:00
