@@ -1,4 +1,4 @@
-const letterCombinations = require("./letter-combinations")
+const { letterCombinations } = require("./letter-combinations")
 
 const expectSameElements = (array1, array2) => {
     expect(array1).toEqual(expect.arrayContaining(array2))

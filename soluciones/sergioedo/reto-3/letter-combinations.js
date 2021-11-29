@@ -11,7 +11,6 @@ const digits2Chars = {
 }
 
 const letterCombinations = (digits) => {
-    console.log(digits)
     digitsArray = digits.toString().split("")
     if (digitsArray.length === 1) {
         return digits2Chars[digitsArray[0]]
@@ -30,4 +29,7 @@ const letterCombinations = (digits) => {
     }
 }
 
-module.exports = letterCombinations
+module.exports = {
+    letterCombinations,
+    digits2Chars,
+}
