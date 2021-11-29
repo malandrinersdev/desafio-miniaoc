@@ -61,13 +61,15 @@ La frase es:
 
 Puedes hacerlo como quieras:
 
-1. Poniendo las teclas tal cual en una función (aunque no tenga ninguna gracia).
-2. Usando la función de la primera parte.
-3. Usando las combinaciones del reto 2 (las 4 palabras son un anagrama) y lo que has trabajado en el reto 3.
-4. Estilo libre o _free style_ que dicen los modernos.
+- Poniendo las teclas tal cual en una función.
+- Copiando como lo hace otro.
+- Free style
 
 
-Hackers astutos, cuánto tenéis que agradecer a los malandriners… :)
+Cualquier solución válida es aceptada, el objetivo aquí es romperse un poco el coco para encontrar el camino que mejor te convenga en función del tiempo, habilidades, recursos, etc. Como la vida misma cuando tienes que hacer algo para un proyecto ;)
+
+
+Hackers astutos, cuánto tenéis que agradecer a los malandriners… 
 
 
 ### Sistema de puntos
