@@ -31,7 +31,7 @@ class TestWordGenerator(unittest.TestCase):
         self.assertEqual(self.wordGenerator.letterCombinations("6"), ['m', 'n', 'o'])
 
     def test_letterCombinationsTwoLetters(self):
-        self.assertEqual(self.wordGenerator.letterCombinations("23"), ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf', ])
+        self.assertEqual(self.wordGenerator.letterCombinations("23"), ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf'])
 
     def test_letterCombinationsThreeLetters(self):
         self.assertEqual(self.wordGenerator.letterCombinations("234"), ['adg', 'adh', 'adi', 'aeg', 'aeh', 'aei', 'afg', 'afh', 'afi', 'bdg', 'bdh', 'bdi', 'beg', 'beh', 'bei', 'bfg', 'bfh', 'bfi', 'cdg', 'cdh', 'cdi', 'ceg', 'ceh', 'cei', 'cfg', 'cfh', 'cfi'])
