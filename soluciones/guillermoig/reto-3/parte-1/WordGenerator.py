@@ -28,15 +28,15 @@ class WordGenerator:
 
     def getWords(self, sequence) -> set:
         words = []
-        sequenceLen = len(sequence)
-        if sequenceLen  == 1:
-            return sequence[0]
-        firstGroup = sequence.pop(0)
+        tempSequence = sequence.copy()
+        if len(tempSequence)  == 1:
+            return tempSequence[0]
+        firstGroup = tempSequence.pop(0)
         for letter in firstGroup:
-            words += self.concatCharArray(letter, self.getWords(sequence))
+            words += self.concatCharArray(letter, self.getWords(tempSequence))
         return words
 
-    def generateWord(self, numberSequence) -> set:
+    def letterCombinations(self, numberSequence) -> set:
         if len(numberSequence) == 0:
             raise ValueError("The string is empty.")
         if not re.search("^[2-9]+$", numberSequence):

@@ -13,19 +13,28 @@ class TestWordGenerator(unittest.TestCase):
     def test_translateNumbersToLettersTwoNumbers(self):
         self.assertEqual(self.wordGenerator.translateNumbersToLetters("23"), [['a', 'b', 'c'], ['d', 'e', 'f']])
 
-    def test_generateWordEmptyString(self):
+    def test_concatCharArrayOneLetter(self):
+        self.assertEqual(self.wordGenerator.concatCharArray('a', ['m', 'n', 'o']), ['am', 'an', 'ao'])
+
+    def test_concatCharArrayTwoLetters(self):
+        self.assertEqual(self.wordGenerator.concatCharArray('a', ['dg', 'dh', 'di']), ['adg', 'adh', 'adi'])
+
+    def test_letterCombinationsEmptyString(self):
         # Test raise exception in empty input
-        self.assertRaises(ValueError, self.wordGenerator.generateWord, "")
+        self.assertRaises(ValueError, self.wordGenerator.letterCombinations, "")
 
-    def test_generateWordNotSequenceOfNumbers(self):
+    def test_letterCombinationsNotSequenceOfNumbers(self):
         # Test raise exception in non sequence of numbers
-        self.assertRaises(ValueError, self.wordGenerator.generateWord, "23j44")
+        self.assertRaises(ValueError, self.wordGenerator.letterCombinations, "23j44")
 
-    def test_generateWordOneLetter(self):
-        self.assertEqual(self.wordGenerator.generateWord("6"), ['m', 'n', 'o'])
+    def test_letterCombinationsOneLetter(self):
+        self.assertEqual(self.wordGenerator.letterCombinations("6"), ['m', 'n', 'o'])
 
-    def test_generateWordTwoLetters(self):
-        self.assertEqual(self.wordGenerator.generateWord("23"), ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf', ])
+    def test_letterCombinationsTwoLetters(self):
+        self.assertEqual(self.wordGenerator.letterCombinations("23"), ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf', ])
+
+    def test_letterCombinationsThreeLetters(self):
+        self.assertEqual(self.wordGenerator.letterCombinations("234"), ['adg', 'adh', 'adi', 'aeg', 'aeh', 'aei', 'afg', 'afh', 'afi', 'bdg', 'bdh', 'bdi', 'beg', 'beh', 'bei', 'bfg', 'bfh', 'bfi', 'cdg', 'cdh', 'cdi', 'ceg', 'ceh', 'cei', 'cfg', 'cfh', 'cfi'])
 
 if __name__ == '__main__':
     unittest.main()
