@@ -93,16 +93,16 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 | ------------ | ------ |
 | imanolvalero | 9      |
 | guillermoig  | 9      |
-| ejdiezfraile | 8      |
 | alexhermida  | 8      |
-| xurxof       | 6      |
-| sergioedo    | 6      |
+| ejdiezfraile | 8      |
 | migbara      | 6      |
-| skcode7      | 4      |
+| sergioedo    | 6      |
+| xurxof       | 6      |
+| eleazan      | 4      |
 | obermur      | 4      |
 | marcosgnieto | 4      |
-| eleazan      | 4      |
-| niltsiar     | 2      |
+| skcode7      | 4      |
+| niltsiar     | 3      |
 | ramonrp      | 1      |
 
 
