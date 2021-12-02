@@ -14,6 +14,14 @@ Eso es bueno, porque así podemos jugar de forma más relajada. Y, además, en e
 
 Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime para celebrar una nueva fiesta del código.
 
+- [Desafío miniAOC](#desaf-o-miniaoc)
+    + [Mecánica del miniAOC](#mec-nica-del-miniaoc)
+    + [Cómo participar en cada reto semanal](#c-mo-participar-en-cada-reto-semanal)
+    + [Retos semanales](#retos-semanales)
+    + [Fechas límite:](#fechas-l-mite-)
+    + [Leaderboard](#leaderboard)
+    + [Notas finales](#notas-finales)
+
 
 
 ### Mecánica del miniAOC
