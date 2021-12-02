@@ -85,6 +85,25 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 
 ### Fechas límite:
 - Reto 1 y 2 para el 24 de Noviembre a las 19:00
+- Reto 3 antes del 2 de Diciembre a las 19:00
+
+### Leaderboard
+
+| nick         | puntos |
+| ------------ | ------ |
+| imanolvalero | 9      |
+| guillermoig  | 9      |
+| ejdiezfraile | 8      |
+| alexhermida  | 8      |
+| xurxof       | 6      |
+| sergioedo    | 6      |
+| migbara      | 6      |
+| skcode7      | 4      |
+| obermur      | 4      |
+| marcosgnieto | 4      |
+| eleazan      | 4      |
+| niltsiar     | 2      |
+| ramonrp      | 1      |
 
 
 ### Notas finales
