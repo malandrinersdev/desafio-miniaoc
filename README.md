@@ -111,7 +111,9 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 | marcosgnieto | 4      |
 | skcode7      | 4      |
 | niltsiar     | 3      |
+| prinhelmet   | 1      |
 | ramonrp      | 1      |
+
 
 
 ### Notas finales
