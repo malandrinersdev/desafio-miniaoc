@@ -103,11 +103,11 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 | guillermoig  | 9      |
 | alexhermida  | 8      |
 | ejdiezfraile | 8      |
+| obermur      | 6      |
 | migbara      | 6      |
 | sergioedo    | 6      |
 | xurxof       | 6      |
 | eleazan      | 4      |
-| obermur      | 4      |
 | marcosgnieto | 4      |
 | skcode7      | 4      |
 | niltsiar     | 3      |
