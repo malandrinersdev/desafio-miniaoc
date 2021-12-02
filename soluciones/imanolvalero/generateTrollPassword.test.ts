@@ -1,8 +1,6 @@
 import "jest";
 import { generateTrollPassword } from "./generateTrollPassword";
 
-
-
 describe("Reto 2: Malo de la Olma de la Loma Mola", () => {
 	test("Test", () => {
 		const input: string = "mola";
