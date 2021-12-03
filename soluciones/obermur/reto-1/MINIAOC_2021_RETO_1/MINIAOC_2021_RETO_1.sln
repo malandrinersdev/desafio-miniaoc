@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MINIAOC_2021_RETO_1", "MINIAOC_2021_RETO_1\MINIAOC_2021_RETO_1.csproj", "{F598A456-BF00-4788-934D-7E302FACF4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MINIAOC_2021_RETO_1.UnitTests", "MINIAOC_2021_RETO_1.UnitTests\MINIAOC_2021_RETO_1.UnitTests.csproj", "{9FDEA3D8-AD52-4929-A392-D5AD791D2594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F598A456-BF00-4788-934D-7E302FACF4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F598A456-BF00-4788-934D-7E302FACF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F598A456-BF00-4788-934D-7E302FACF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F598A456-BF00-4788-934D-7E302FACF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDEA3D8-AD52-4929-A392-D5AD791D2594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDEA3D8-AD52-4929-A392-D5AD791D2594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDEA3D8-AD52-4929-A392-D5AD791D2594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDEA3D8-AD52-4929-A392-D5AD791D2594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E5FEF5A-9208-47A1-A7D2-7CBBE2873BB8}
+	EndGlobalSection
+EndGlobal
