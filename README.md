@@ -96,21 +96,20 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 - Reto 3 antes del 2 de Diciembre a las 19:00
 
 ### Leaderboard
-
 | nick         | puntos |
 | ------------ | ------ |
-| imanolvalero | 9      |
-| guillermoig  | 9      |
+| imanolvalero | 11     |
+| guillermoig  | 11     |
 | alexhermida  | 8      |
 | ejdiezfraile | 8      |
+| sergioedo    | 8      |
+| xurxof       | 8      |
 | obermur      | 6      |
 | migbara      | 6      |
-| sergioedo    | 6      |
-| xurxof       | 6      |
+| marcosgnieto | 6      |
+| skcode7      | 6      |
+| niltsiar     | 5      |
 | eleazan      | 4      |
-| marcosgnieto | 4      |
-| skcode7      | 4      |
-| niltsiar     | 3      |
 | prinhelmet   | 1      |
 | ramonrp      | 1      |
 
