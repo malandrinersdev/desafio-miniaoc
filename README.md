@@ -18,8 +18,8 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
     + [Mecánica del miniAOC](#mec-nica-del-miniaoc)
     + [Cómo participar en cada reto semanal](#c-mo-participar-en-cada-reto-semanal)
     + [Retos semanales](#retos-semanales)
-    + [Fechas límite:](#fechas-l-mite-)
     + [Leaderboard](#leaderboard)
+    + [Fechas límite:](#fechas-l-mite-)
     + [Notas finales](#notas-finales)
 
 
@@ -49,7 +49,6 @@ Este es el reparto de puntos:
 En total se podrán ganar un máximo de 9 puntos, 3 máximo en cada reto semanal. 
 
 Solo se admite una solución por reto semanal por persona.
-
 
 
 > **Nota:** Durante las semanas que dure el desafío puede haber sorpresas (siempre las hay) que te hagan ganar más puntos
@@ -91,28 +90,30 @@ Aquí aparecerán enlazados cada uno de los retos semanales.
 - [Reto 2: Malo de la Olma de la Loma Mola](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-2.md)
 - [Reto 3: Nokia 6310](https://github.com/malandrinersdev/desafio-miniaoc/blob/main/reto-3.md)
 
+
+
+### Leaderboard
+| nick         | lenguaje   | puntos |
+| ------------ | ---------- | ------ |
+| [imanolvalero](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/imanolvalero "imanolvalero") | typescript | 11     |
+| [guillermoig](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/guillermoig "guillermoig")  | python     | 11     |
+| [alexhermida](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/alexhermida "alexhermida")  | rust       | 8      |
+| [ejdiezfraile](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/ejdiezfraile "ejdiezfraile") | javascript | 8      |
+| [sergioedo](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/sergioedo "sergioedo")    | javascript | 8      |
+| [xurxof](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/xurxof "xurxof")       | f#         | 8      |
+| [obermur](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/obermur "obermur")      | c#         | 6      |
+| [migbara](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/migbara "migbara")      | php        | 6      |
+| [marcosgnieto](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/marcosgnieto "marcosgnieto") | python     | 6      |
+| [skcode7](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/karlos "skcode7")      | php        | 6      |
+| [niltsiar](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/niltsiar "niltsiar")     | kotlin     | 5      |
+| [eleazan](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/andres-cabrera "eleazan")      | rust       | 4      |
+| [prinhelmet](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/prinhelmet "prinhelmet")   | php        | 1      |
+| [ramonrp](https://github.com/malandrinersdev/desafio-miniaoc/tree/main/soluciones/ramon-ruiz "ramonrp")      | javascript | 1      |
+
+
 ### Fechas límite:
 - Reto 1 y 2 para el 24 de Noviembre a las 19:00
 - Reto 3 antes del 2 de Diciembre a las 19:00
-
-### Leaderboard
-| nick         | puntos |
-| ------------ | ------ |
-| imanolvalero | 11     |
-| guillermoig  | 11     |
-| alexhermida  | 8      |
-| ejdiezfraile | 8      |
-| sergioedo    | 8      |
-| xurxof       | 8      |
-| obermur      | 6      |
-| migbara      | 6      |
-| marcosgnieto | 6      |
-| skcode7      | 6      |
-| niltsiar     | 5      |
-| eleazan      | 4      |
-| prinhelmet   | 1      |
-| ramonrp      | 1      |
-
 
 
 ### Notas finales
